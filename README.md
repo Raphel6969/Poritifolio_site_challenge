@@ -1,17 +1,29 @@
-# React + Vite
+# Portfolio Site Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio site! 👋 This project showcases my skills in building interactive web experiences using code, motion, and 3D, with a strong focus on clean design and performance. 
 
-Currently, two official plugins are available:
+You can check out the live version of the site here: **[Live Demo](https://poritifolio-site-challenge.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
 
-## React Compiler
+This portfolio was built as part of a developer challenge and demonstrates various modern web development techniques, including:
+- **Interactive 3D Elements** to create an engaging visual experience.
+- **Smooth Animations** using GSAP for seamless transitions and typography motion.
+- **Responsive & Clean UI** built to perform well across all devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- **React & Vite**: For a fast, component-based user interface and optimized builds.
+- **GSAP**: For high-performance animations and scroll effects.
+- **Tailwind CSS**: For utility-first styling and responsive design.
+- **Spline**: For beautiful, integrated 3D web experiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Poritifolio_site_challenge
+## 💻 Running Locally
+
+If you'd like to explore the code or run this project on your own machine, simply follow these steps:
+
+1. Clone the repository.
+2. Install the dependencies by running `npm install`.
+3. Start the development server with `npm run dev`.
+
+Thanks for stopping by! Feel free to reach out if you have any questions or just want to connect.
