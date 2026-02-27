@@ -69,26 +69,26 @@ export const footerLinks = [
   {
     name: "LinkedIn",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
-    link: "#",
+    link: "#https://x.com/3116Raphel",
   },
   {
     name: "Twitter",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg",
-    link: "#",
+    link: "https://x.com/3116Raphel",
   },
   {
     name: "Bluesky",
     icon: "https://simpleicons.org/icons/bluesky.svg",
-    link: "#",
+    link: "https://bsky.app/profile/saswat3116.bsky.social",
   },
   {
     name: "Instagram",
     icon: "https://simpleicons.org/icons/instagram.svg",
-    link: "#",
+    link: "https://www.instagram.com/saswatsahu_3116/",
   },
   {
     name: "Email",
     icon: "https://simpleicons.org/icons/gmail.svg",
-    link: "mailto:hello@example.com",
+    link: "mailto:saswat20061103@gmail.com",
   },
 ];
