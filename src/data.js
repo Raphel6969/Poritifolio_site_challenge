@@ -69,7 +69,7 @@ export const footerLinks = [
   {
     name: "LinkedIn",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg",
-    link: "#https://x.com/3116Raphel",
+    link: "https://www.linkedin.com/in/saswat-sahu-35191223b/",
   },
   {
     name: "Twitter",
